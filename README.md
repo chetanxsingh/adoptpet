@@ -1,16 +1,24 @@
-# adoptpet
+#Pet Adoption App
 
-A new Flutter project.
+## 📷 Screenshots
+<img src="https://i.postimg.cc/HLGLz5VG/1.png" alt="img1">
+<img src="https://i.postimg.cc/d30Q3jSC/2.png" alt="img2">
+<img src="https://i.postimg.cc/GtSLyTZ5/3.png" alt="img3">
+<img src="https://i.postimg.cc/mDj2T5VR/4.png" alt="img4">
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Tech Stack 💻
+- Frontend: Flutter (Dart)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Key Features ✨
+- Modern Homepage UI
+- Seamless screen navigation
+- Responsive design
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+- HomePage                         
+- connected all screens
+
+         
+    
